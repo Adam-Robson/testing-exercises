@@ -1,6 +1,6 @@
 import React from 'react'
 import { assert, describe, expect, test } from 'vitest'
-import App from '../App'
+import { App } from '../App'
 
 
 describe('name of suite', () => {
